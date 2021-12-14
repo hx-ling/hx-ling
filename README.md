@@ -27,7 +27,10 @@ NONE
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/800px-The_C_Programming_Language_logo.svg.png" alt="python" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/products/illustrator.html" target="_blank"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="xd" width="40" height="40"/> </a> 
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="xd" width="40" height="40"/> </a> 
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cct/creativeclou…usiness/teams/free-trial-new/desktop_premiere.svg" alt="xd" width="40" height="40"/> </a> 
     </p>
 
 
