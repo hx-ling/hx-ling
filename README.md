@@ -1,16 +1,13 @@
 <h1 align="center">Hi:purple_heart: I'm hx-ling :purple_heart:</h1>
 
 <h3 align="center">A student of the Communication University of China</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
-
-<p align="left"> <a href="https://twitter.com/rahuldkjain" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
-
+<h3 align="center">:purple_heart::purple_heart::purple_heart::purple_heart::purple_heart::purple_heart::purple_heart::purple_heart::purple_heart::purple_heart:</h3>
 
 - :sparkles: I’m currently studying in the Communication University of China, Beijing.
 
 - 📫 Reach me at **huangxuling@cuc.edu.cn**
 
-- 👨‍💻 All of my projects are available at [hx](https://rahuldkjain.github.io)
+- 👨‍💻 All of my projects are available at [hx-ling](https://hx-ling.github.io/)
 
 - ⚡ My daily notes are recorded at [CDSN](https://blog.csdn.net/m0_46979525?spm=1001.2101.3001.5343)
 
@@ -36,5 +33,3 @@ NONE
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="ps" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/products/premiere.html" target="_blank"> <img src="https://www.adobe.com/content/dam/cct/creativecloud/business/teams/free-trial-new/desktop_premiere.svg" alt="pr" width="40" height="40"/> </a> 
     </p>
-
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rahuldkjain&show_icons=true alt=rahuldkjain /> </p>
