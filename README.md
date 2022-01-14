@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [hx-ling](https://hx-ling.github.io/)
 
-- ⚡ My daily notes are recorded at [CDSN](https://blog.csdn.net/m0_46979525?spm=1001.2101.3001.5343)
+- ⚡ My daily notes are recorded at [CSDN](https://blog.csdn.net/m0_46979525?spm=1001.2101.3001.5343)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
